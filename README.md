@@ -37,7 +37,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Terraform</center></b></span> 
-<img height=65px src="https://www.terraform.io/_next/static/media/terraform-community_on-light.b8401189.svg"> 
+<img height=65px src="https://raw.githubusercontent.com/CoordinatesNotFound/CoordinatesNotFound/master/img/terraform.png"> 
 </td>
 
 
@@ -73,22 +73,12 @@
 
 <td align="center" width="20%">
 <span><b><center>Golang</center></b></span> 
-<img height=65px src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/golang.png"> 
+<img height=65px src="https://raw.githubusercontent.com/CoordinatesNotFound/CoordinatesNotFound/master/img/golang.png"> 
 </td>
 
 </tr>
 
-<tr>
 
-
-
-
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-</tr>
 
 </tbody>
 </table>
