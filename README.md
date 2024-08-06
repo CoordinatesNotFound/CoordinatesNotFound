@@ -87,7 +87,7 @@
  
 ## My Certifications
 
-- [Certified Kuubernetes Administrator (CKA)](https://www.credly.com/badges/15b09754-62db-4933-9bef-5f4d732e313b/public_url)
+- [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/15b09754-62db-4933-9bef-5f4d732e313b/public_url)
 
 
 
