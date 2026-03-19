@@ -3,9 +3,9 @@
 
 
 <p>
-  🌲 I am <a href=https://www.linkedin.com/in/yinan-hu-5aa486265/>Yinan Hu</a>.  Currently I'm an <strong>Erasmus
-    Mundus</strong> student of the <a href="https://secclo.eu/">SECCLO</a>  🇪🇺 master program at <a
-    href="https://www.aalto.fi/en">Aalto University</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH Royal Institute of Technology</a> 🇸🇪.
+  🌲 I am <a href=https://www.linkedin.com/in/yinan-hu-5aa486265/>Yinan Hu</a>.  I'm a Software Engineer with a Master degree in Security and Cloud Computing from <a
+    href="https://www.aalto.fi/en">Aalto</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH</a> 🇸🇪  (<a href="https://secclo.eu/">SECCLO</a> <strong>Erasmus
+    Mundus</strong> 🇪🇺.
 </p>
 
 
