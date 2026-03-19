@@ -28,45 +28,38 @@
 
 <p>
 
-🧠 Languages
-
-Go Python JavaScript Rust C
+🧠 Languages: Go Python JavaScript Rust C
 
 </p>
 <p>
   
-☁️ Cloud
-
-AWS GCP
+☁️ Cloud: AWS GCP
 
 </p>
 <p>
   
-🏗 DevOps & Infrastructure
-
-Kubernetes Docker Terraform Ansible CI/CD Nginx
+🏗 DevOps & Infrastructure: Kubernetes Docker Terraform Ansible CI/CD Nginx
 
 </p>
 <p>
   
-📡 Observability & Streaming
-
-Prometheus Kafka RabbitMQ eBPF
+📡 Observability & Streaming: Prometheus Kafka RabbitMQ eBPF
 
 </p>
 <p>
 
-🗄 Databases
-
-PostgreSQL MongoDB Redis
+🗄 Databases: SQL MongoDB Redis
 
 </p>
 
  
 ## Connect
+<p>
 💼 LinkedIn: https://www.linkedin.com/in/yinan-hu-5aa486265
+</p>
+<p>
 🧑‍💻 GitHub: https://github.com/CoordinatesNotFound
-
+</p>
 
 <!-- default -->
 
