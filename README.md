@@ -52,7 +52,7 @@
  
 ## Connect
 <p>
-💼 LinkedIn: https://www.linkedin.com/in/yinan-hu-5aa486265
+💼 LinkedIn: https://www.linkedin.com/in/yinan-oliver-hu/
 </p>
 <p>
 🧑‍💻 GitHub: https://github.com/CoordinatesNotFound
