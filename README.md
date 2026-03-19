@@ -28,27 +28,27 @@
 
 <p>
 
-🧠 Languages: Go Python JavaScript Rust C
+🧠 Languages: Go, Python, JavaScript, Rust, C
 
 </p>
 <p>
   
-☁️ Cloud: AWS GCP
+☁️ Cloud: AWS, GCP
 
 </p>
 <p>
   
-🏗 DevOps & Infrastructure: Kubernetes Docker Terraform Ansible CI/CD Nginx
+🏗 DevOps & Infrastructure: Kubernetes, Docker, Terraform, Ansible, CI/CD, Nginx
 
 </p>
 <p>
   
-📡 Observability & Streaming: Prometheus Kafka RabbitMQ eBPF
+📡 Observability & Streaming: Prometheus, Kafka, RabbitMQ, eBPF
 
 </p>
 <p>
 
-🗄 Databases: SQL MongoDB Redis
+🗄 Databases: SQL, MongoDB, Redis
 
 </p>
 
