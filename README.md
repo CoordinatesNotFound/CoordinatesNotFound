@@ -5,7 +5,7 @@
 <p>
   🌲 I am <a href=https://www.linkedin.com/in/yinan-hu-5aa486265/>Yinan Hu</a>.  I'm a Software Engineer with a Master degree in Security and Cloud Computing from <a
     href="https://www.aalto.fi/en">Aalto</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH</a> 🇸🇪  (<a href="https://secclo.eu/">SECCLO</a> <strong>Erasmus
-    Mundus</strong> 🇪🇺.
+    Mundus</strong> 🇪🇺).
 </p>
 
 
