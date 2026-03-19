@@ -4,9 +4,6 @@
 
 <p>
   🌲 Software Engineer based in Helsinki🇫🇮
-  with a Master degree in Security and Cloud Computing from <a
-    href="https://www.aalto.fi/en">Aalto</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH</a> 🇸🇪  (<a href="https://secclo.eu/">SECCLO</a> <strong>Erasmus
-    Mundus</strong> 🇪🇺).
 </p>
 
 ## About Me
