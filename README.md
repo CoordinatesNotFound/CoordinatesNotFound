@@ -9,8 +9,8 @@
 ## About Me
 <p>
   🎓 M.Sc. in Security & Cloud Computing from <a
-    href="https://www.aalto.fi/en">Aalto</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH</a> 🇸🇪  (<a href="https://secclo.eu/">SECCLO</a> <strong>Erasmus
-    Mundus</strong> 🇪🇺).
+    href="https://www.aalto.fi/en">Aalto</a> 🇫🇮 & <a href="https://www.kth.se/en">KTH</a> 🇸🇪  (<a href="https://secclo.eu/">SECCLO</a> Erasmus
+    Mundus 🇪🇺).
 </p>
 
 <p>
