@@ -3,7 +3,7 @@
 
 
 <p>
-  🌲 Software Engineer based in Helsinki🇫🇮
+  Software Engineer based in Helsinki 🇫🇮🌲🌲🌲 
 </p>
 
 ## About Me
