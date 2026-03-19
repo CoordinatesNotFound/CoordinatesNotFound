@@ -3,7 +3,7 @@
 
 
 <p>
-  Software Engineer based in Helsinki 🇫🇮🌲🌲🌲 
+  Software Engineer based in Helsinki 🇫🇮
 </p>
 
 ## About Me
@@ -56,6 +56,11 @@
 </p>
 <p>
 🧑‍💻 GitHub: https://github.com/CoordinatesNotFound
+</p>
+
+
+<p>
+🌲🌲🌲 
 </p>
 
 <!-- default -->
